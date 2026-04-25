@@ -5,19 +5,18 @@ Welcome to the most comprehensive resource for **Technical Writers**, **Content 
 ---
 
 ## Table of Contents
-| Section | Description |
-| --- | --- |
-| [**Tool Proficiency**](#tool-proficiency-what-interviewers-expect) | What tools should you know? |
-| [**Interview Questions**](#answers) | 80+ Q&As on SDLC, IA, and Strategy. |
-| [**FAQ**](#frequently-asked-questions-faq) | Quick answers to common career questions. |
-| [**Top Tools**](#top-tools-for-technical-writers) | Essential tools for modern writers. |
-| [**Courses & Resources**](#recommended-courses--resources) | Where to learn and get certified. |
-| [**Interview Checklist**](#technical-writer-interview-day-checklist) | Final prep before your interview. |
-| [**Practice & Tips**](#interview-tips) | How to deliver your answers. |
+
+- [**Tool Proficiency**](#tool-proficiency-what-interviewers-expect) — What tools should you know?
+- [**Interview Questions**](#answers) — 80+ Q&As on SDLC, IA, and Strategy.
+- [**FAQ**](#frequently-asked-questions-faq) — Quick answers to common career questions.
+- [**Top Tools**](#top-tools-for-technical-writers) — Essential tools for modern writers.
+- [**Courses & Resources**](#recommended-courses--resources) — Where to learn and get certified.
+- [**Interview Checklist**](#technical-writer-interview-day-checklist) — Final prep before your interview.
+- [**Practice & Tips**](#interview-tips) — How to deliver your answers.
 
 ---
 
-### 🚀 Key Topics Covered:
+### Key Topics Covered:
 - **Core Concepts**: Active vs. Passive Voice, Glossary, SDLC integration.
 - **Strategy**: Information Architecture, Legacy Documentation, ROI of Docs.
 - **Technical Skills**: DITA/XML, Markdown, API Documentation, Version Control (Git).

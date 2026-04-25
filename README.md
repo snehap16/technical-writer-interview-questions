@@ -1,4 +1,4 @@
-# Technical Writer Interview Questions & Answers: The Ultimate 2026-2027 Guide
+# Technical Writer Interview Questions & Answers: 2026-2027
 
 Welcome to the most comprehensive resource for **Technical Writers**, **Content Designers**, and **Documentation Strategists**.
 
